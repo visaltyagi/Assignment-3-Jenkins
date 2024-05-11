@@ -10,8 +10,8 @@ Assignment-3-Jenkins
 **Step 3:** Create Three Nodes here (One Master & Two Slaves)
 
 **Step 4:** Create a GitHub repository as "Assignment-3-Jenkins".
-**
-Step 5:** Create Two Jobs Test & Prod as a "Freestyle project". Add develop.txt & dev1.txt respectively here.
+
+**Step 5:** Create Two Jobs Test & Prod as a "Freestyle project". Add develop.txt & dev1.txt respectively here.
 
 **Step 6:** Add a Webhook in GitHub.
 
